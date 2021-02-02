@@ -1,0 +1,40 @@
+c:\users\rumon\documents\visual studio 2010\Projects\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.exe
+c:\users\rumon\documents\visual studio 2010\Projects\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.pdb
+c:\users\rumon\documents\visual studio 2010\Projects\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.xml
+c:\users\rumon\documents\visual studio 2010\Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rumon\documents\visual studio 2010\Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.AccountManager.resources
+c:\users\rumon\documents\visual studio 2010\Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.Resources.resources
+c:\users\rumon\documents\visual studio 2010\Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\rumon\documents\visual studio 2010\Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\rumon\documents\visual studio 2010\Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.exe
+c:\users\rumon\documents\visual studio 2010\Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.xml
+c:\users\rumon\documents\visual studio 2010\Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.pdb
+C:\Users\rc1\Desktop\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.exe
+C:\Users\rc1\Desktop\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.xml
+C:\Users\rc1\Desktop\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.pdb
+C:\Users\rc1\Desktop\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.AccountManager.resources
+C:\Users\rc1\Desktop\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.Resources.resources
+C:\Users\rc1\Desktop\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.vbproj.GenerateResource.Cache
+C:\Users\rc1\Desktop\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.exe
+C:\Users\rc1\Desktop\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.pdb
+C:\Users\rc1\Desktop\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.xml
+E:\Odesk\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.exe
+E:\Odesk\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.xml
+E:\Odesk\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.pdb
+E:\Odesk\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.exe
+E:\Odesk\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.pdb
+E:\Odesk\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.xml
+E:\Odesk\AccountTransaction\AccountTransaction\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Odesk\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.AccountManager.resources
+E:\Odesk\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.Resources.resources
+E:\Odesk\AccountTransaction\AccountTransaction\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Odesk\AccountTransaction\AccountTransaction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Odesk Projects\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.exe
+C:\Odesk Projects\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.pdb
+C:\Odesk Projects\AccountTransaction\AccountTransaction\bin\Debug\AccountTransaction.xml
+C:\Odesk Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.AccountManager.resources
+C:\Odesk Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.Resources.resources
+C:\Odesk Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.vbproj.GenerateResource.Cache
+C:\Odesk Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.exe
+C:\Odesk Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.xml
+C:\Odesk Projects\AccountTransaction\AccountTransaction\obj\x86\Debug\AccountTransaction.pdb

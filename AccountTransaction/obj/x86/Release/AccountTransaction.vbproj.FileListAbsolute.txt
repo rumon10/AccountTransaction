@@ -1,0 +1,9 @@
+C:\Odesk Projects\AccountTransaction\AccountTransaction\bin\Release\AccountTransaction.exe
+C:\Odesk Projects\AccountTransaction\AccountTransaction\bin\Release\AccountTransaction.pdb
+C:\Odesk Projects\AccountTransaction\AccountTransaction\bin\Release\AccountTransaction.xml
+C:\Odesk Projects\AccountTransaction\AccountTransaction\obj\x86\Release\AccountTransaction.AccountManager.resources
+C:\Odesk Projects\AccountTransaction\AccountTransaction\obj\x86\Release\AccountTransaction.Resources.resources
+C:\Odesk Projects\AccountTransaction\AccountTransaction\obj\x86\Release\AccountTransaction.vbproj.GenerateResource.Cache
+C:\Odesk Projects\AccountTransaction\AccountTransaction\obj\x86\Release\AccountTransaction.exe
+C:\Odesk Projects\AccountTransaction\AccountTransaction\obj\x86\Release\AccountTransaction.xml
+C:\Odesk Projects\AccountTransaction\AccountTransaction\obj\x86\Release\AccountTransaction.pdb
